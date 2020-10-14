@@ -18,5 +18,5 @@ My name is Naman Jain and I'm a Software Engineer. I'm from Jaipur, India. You c
 [2]: https://www.linkedin.com/in/namanjain27/
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
 
