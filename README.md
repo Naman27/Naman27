@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+My name is Naman Jain and I'm a Software Engineer. I'm from Jaipur, India. You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
