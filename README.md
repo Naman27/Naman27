@@ -21,6 +21,5 @@ I'm a Software Engineer from Jaipur, India. You can find me on [![LinkedIn][2.2]
 <!-- ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=blue) -->
 
 Cheers,  
-
 Naman Jain
 
