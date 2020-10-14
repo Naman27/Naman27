@@ -3,4 +3,4 @@
 
 Hello World!!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman27&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman27/>
