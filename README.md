@@ -16,3 +16,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 [2]: https://www.linkedin.com/in/namanjain27/
+
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
+
