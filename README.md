@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" width="30px">
 
 
-# Hello, folks! 
+# Hello, World!! 
 
 <!-- Actual text -->
 
-My name is Naman Jain and I'm a Software Engineer. I'm from Jaipur, India. You can find me on [![LinkedIn][2.2]][2].
+I'm a Software Engineer from Jaipur, India. You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -18,5 +18,8 @@ My name is Naman Jain and I'm a Software Engineer. I'm from Jaipur, India. You c
 [2]: https://www.linkedin.com/in/namanjain27/
 
 
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
+<!-- ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=blue) -->
+
+#Cheers,
+Naman Jain
 
